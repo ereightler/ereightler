@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Hi there, I'm Ethan 👋
+🌱I'm currently learning to be a full stack developer through the coding bootcamp Tech Elevator.
 <!--
 **ereightler/ereightler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
